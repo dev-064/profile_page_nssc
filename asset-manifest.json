@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/profile_page_nssc/static/css/main.77794914.css",
+    "main.js": "/profile_page_nssc/static/js/main.88b053ca.js",
+    "static/js/787.f2a0fa2f.chunk.js": "/profile_page_nssc/static/js/787.f2a0fa2f.chunk.js",
+    "index.html": "/profile_page_nssc/index.html",
+    "main.77794914.css.map": "/profile_page_nssc/static/css/main.77794914.css.map",
+    "main.88b053ca.js.map": "/profile_page_nssc/static/js/main.88b053ca.js.map",
+    "787.f2a0fa2f.chunk.js.map": "/profile_page_nssc/static/js/787.f2a0fa2f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.77794914.css",
+    "static/js/main.88b053ca.js"
+  ]
+}
